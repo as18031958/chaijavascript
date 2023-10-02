@@ -1,0 +1,27 @@
+body{
+    background-color: chocolate;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+}
+.centre{
+    /* float: left; */
+    display: flex;
+    justify-content: center;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
